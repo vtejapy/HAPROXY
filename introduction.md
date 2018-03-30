@@ -84,13 +84,13 @@ frontend webapp
 
 ### round robin: one by one
 
-    * Default algorithm
-    * select server turn by turn
+   * Default algorithm
+   * select server turn by turn
 
 ### least connection: depend on load
 
-    * select server with less number of conn
-    * recommended for longer sessions
+   * select server with less number of conn
+   * recommended for longer sessions
 
 ## source : depend on user/sourceIP
    * select server based on user IP address
