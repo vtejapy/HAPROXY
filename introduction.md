@@ -39,19 +39,19 @@ frontend
 
 
 ### Acl: Access Control List
-    * used to verify condition and perform action
-    * condition is combination of ACL with operator
-    * supported Condition:if,unless,eq
-    * supported operator AND,OR,Negate(!)
+   * used to verify condition and perform action
+   * condition is combination of ACL with operator
+   * supported Condition:if,unless,eq
+   * supported operator AND,OR,Negate(!)
 
 
 
 ### backend
 
-    * this is set of servers which receives forwarded requests from frontend.
-    * two parameters contained by backend 
-      * list of servers and ports
-      * load balancing alg to use
+   * this is set of servers which receives forwarded requests from frontend.
+   * two parameters contained by backend 
+     * list of servers and ports
+     * load balancing alg to use
 
 eg: 
 ```
@@ -62,11 +62,11 @@ eg:
          server app2 ip:80 check
 ```
 ### frontend
-    * this define how requests should be forward to backend
-    * contains
-      * a.set of IP address and port
-      * b.ACL's
-      * c.backend rule which is already defined in backend
+   * this define how requests should be forward to backend
+   * contains
+     * a.set of IP address and port
+     * b.ACL's
+     * c.backend rule which is already defined in backend
 
 eg:
 ````
