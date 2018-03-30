@@ -100,3 +100,26 @@ frontend webapp
 ## healthcheck: to check server availability
    * To check server availability 
    * traffic can manage based on health check
+
+
+### nginx 
+
+   * full web server
+   * complicated slower
+   * works with windows
+   * no admin console
+   * only http layer 
+   * good caching
+   * native ssl
+
+
+### haproxy
+
+   * only load balancer
+   * faster
+   * only opensoure
+   * admin console
+   * tcp 4 and http 7
+   * advanced routeing and load balancing
+   * native ssl
+
