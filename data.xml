@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.equifax.bridge</groupId>
+  <artifactId>bridge-online</artifactId>
+  <versioning>
+    <latest>0.0.3.433-SNAPSHOT</latest>
+    <release></release>
+    <versions>
+      <version>0.0.3.1.421-SNAPSHOT</version>
+      <version>0.0.3.396-SNAPSHOT</version>
+      <version>0.0.3.397-SNAPSHOT</version>
+      <version>0.0.3.398-SNAPSHOT</version>
+      <version>0.0.3.399-SNAPSHOT</version>
+      <version>0.0.3.400-SNAPSHOT</version>
+      <version>0.0.3.401-SNAPSHOT</version>
+      <version>0.0.3.405-SNAPSHOT</version>
+      <version>0.0.3.406-SNAPSHOT</version>
+      <version>0.0.3.407-SNAPSHOT</version>
+      <version>0.0.3.409-SNAPSHOT</version>
+      <version>0.0.3.410-SNAPSHOT</version>
+      <version>0.0.3.411-SNAPSHOT</version>
+      <version>0.0.3.412-SNAPSHOT</version>
+      <version>0.0.3.414-SNAPSHOT</version>
+      <version>0.0.3.415-SNAPSHOT</version>
+      <version>0.0.3.416-SNAPSHOT</version>
+      <version>0.0.3.417-SNAPSHOT</version>
+      <version>0.0.3.418-SNAPSHOT</version>
+      <version>0.0.3.419-SNAPSHOT</version>
+      <version>0.0.3.420-SNAPSHOT</version>
+      <version>0.0.3.424-SNAPSHOT</version>
+      <version>0.0.3.425-SNAPSHOT</version>
+      <version>0.0.3.426-SNAPSHOT</version>
+      <version>0.0.3.427-SNAPSHOT</version>
+      <version>0.0.3.428-SNAPSHOT</version>
+      <version>0.0.3.429-SNAPSHOT</version>
+      <version>0.0.3.430-SNAPSHOT</version>
+      <version>0.0.3.431-SNAPSHOT</version>
+      <version>0.0.3.432-SNAPSHOT</version>
+      <version>0.0.3.433-SNAPSHOT</version>
+      <version>0.0.3.437-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180423173500</lastUpdated>
+  </versioning>
+</metadata>
